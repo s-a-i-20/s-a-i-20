@@ -1,54 +1,64 @@
-# curious-explorer
+# 👋 Hi there! I'm Saira 
 
-# 👋 Hi, I'm Saira Garcia (@sairagarcia)
+I'm a **curious explorer** on a daily journey of learning — eager to uncover the magic of **AI tools**, **agentic systems**, and **low-code/no-code creativity**.
 
-🚀 I’m a passionate explorer in the world of **agentic AI**, **low-code/no-code development**, and **cloud technologies**.  
-🌍 I’m currently working on a global travel and event assistant app called **FestivAI** that showcases worldwide festivals and connects users with intelligent agents for flights, hotels, and trip planning.  
-🧠 I enjoy building lovable, user-friendly chatbot experiences using **Google Cloud Run**, **Gemini/Gemma**, and tools like **Visual Studio Code**—even though I’m not from a coding background.
+🛠️ Whether it's building lovable chatbot experiences or deploying AI models in the cloud, I’m all about combining **sparkles of curiosity** with **technology that feels human**.
 
 ---
 
-### 💡 Current Focus
-- Deploying a small LLM (Gemma 3B) on **Google Cloud Run** with GPU support  
-- Creating interactive **AI agents** that help users plan festival-based travel experiences  
-- Building engaging UI/UX using **no-code/low-code platforms**
+## 🚀 What I'm Passionate About
+- Creating accessible tools with **agentic AI** and **low-code/no code**
+- Designing friendly user experiences using framework from **Google Cloud Run**, **Gemini/Gemma**, and **no-code platforms**
+- Learning by doing, every single day ✨
 
 ---
 
-### 🧑‍💻 Projects
+## 💡 Recent Projects
 
-**🎓 Education Equity Library – Hack for Impact AI**  
-Collaborated on the creation of the *Education Equity Library*, a centralized resource hub focused on equitable access to learning. Integrated with the **Lovable** platform, this project aimed to deliver personalized and inclusive educational content.  
-- Designed user flows and features focused on accessibility and emotional intelligence  
-- Explored the use of **agentic AI** to guide users through curated resources  
-- Emphasized inclusive design and social impact through technology
+### 📚 **Education Equity Library** – *Hack for Impact AI*
+[DevPost](https://devpost.com/software/librarylink-usa)
+A centralized, inclusive platform linked with **Lovable**, aimed at expanding access libraries to educational content.  
+- Led design of user flows with an emphasis on accessibility and inclusion  
+- Integrated **Google Maps API** + **IMLS data** with **Supabase** to help users discover relevant resources  
+- Advocated for low-income communities and students to makes a difference
 
-**🎉 FestivAI** *(In Progress)*  
-An AI-powered travel and festival planning assistant that helps users discover global celebrations and receive intelligent support for trip planning.  
-- Built with **Google Cloud Run**, **Gemini/Gemma**, and no-code platforms  
-- Focused on creating joyful, intuitive chatbot experiences  
-
----
-
-### 🛠️ Tools & Technologies
-- Google Cloud (Cloud Run, GPU)
-- Gemini/Gemma (agentic AI)
-- Visual Studio Code (with AI prompts)
-- JSON, GitHub, and markdown documentation
+### 🌎 **FestivAI** *(In Progress)* with a team 
+AI-powered global travel and event assistant app called **FestivAI** that showcases worldwide festivals and connects users with intelligent agents for flights, hotels, and trip planning.  
+- Built with **Google Cloud Run**, **Gemini/Gemma**, and **no-code tools**  
+- Designed intelligent agents for flights, hotels, and event planning  
+- Focused on delight, playfulness, and usability
 
 ---
 
-### 🌱 Currently Learning
-- How to structure and deploy **agentic AI experiences**
-- Automating requests and workflows with **Google tools**
+### 🛠️ Tools & Technologies  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-5C2D91?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+
 
 ---
 
-### 📫 Let’s Connect
-- 📍 Based in New York City
-- 📧 Reach me via GitHub or LinkedIn *(add your links here)*
+## 🌱 Currently Exploring
+- Building & deploying **AI agents**  
+- Automating tools and workflows with **Google**  
+- Making tech more human, joyful, and inclusive
 
 ---
 
-### ✨ Fun Fact
-I'm also learning how to make **healthy homemade drinks** to replace my Dunkin’ runs and keep energized during long project days.
+## 💡 Fun Experiments
+- Deployed a small **Gemma 3B LLM** 
+- Learning building agents that plan travel based on real-time events  
+- Embedded **Google Maps** to a web content  
+- Designing intuitive chatbots with low-code ❤️
+
+---
+
+## 🧃 Side Quests
+When I’m not creating with projects, I’m in my cozy corner mixing up healthy homemade drinks — a fun little ritual to replace my daily Dunkin’ runs and keep the energy flowing 🍓✨
+In the evenings, I love heading out for peaceful hikes with my pup 🐾 — just us, the trail, and a golden sunset to unwind the day 🌄💛
+
+---
