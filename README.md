@@ -22,7 +22,8 @@ A centralized, inclusive platform linked with **Lovable**, aimed at expanding ac
 - Integrated **Google Maps API** + **IMLS data** with **Supabase** to help users discover relevant resources  
 - Advocated for low-income communities and students to makes a difference
 
-### 🌎 **FestivAI** *(In Progress)* with a team 
+### 🌎 **FestivAI**  with a team 
+[GitHub](https://github.com/pengwingokla/FestivAI) 
 AI-powered global travel and event assistant app called **FestivAI** that showcases worldwide festivals and connects users with intelligent agents for flights, hotels, and trip planning.  
 - Built with **Google Cloud Run**, **Gemini/Gemma**, and **no-code tools**  
 - Designed intelligent agents for flights, hotels, and event planning  
